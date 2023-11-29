@@ -21,3 +21,4 @@ Steps:
 
 
 Now check the application state in the Argocd console # test0
+# test0
